@@ -25,7 +25,7 @@ class GifHandler():
         return Image.fromarray(self.frames[index])
 
     def show_frame(self, index):
-        im = Image.fromarray(self.frames[index])
+        im = self.get_frame(index)
         im.show()
         del im
 
@@ -49,5 +49,5 @@ class GifHandler():
         for frame in self.frames:
             data = self.imreader.get_meta_data(index=framenum)
             self.imwriter.append_data(frame, data)
-            frame += 1
+            framenum += 1
         self.imwriter.close()
