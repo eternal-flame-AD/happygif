@@ -1,3 +1,4 @@
+from __future__ import print_function
 import sys
 import os
 from common.gifhandler import GifHandler
@@ -20,7 +21,7 @@ def _pos_trans(x, y, size):
 
 
 def _prompt(prompt):
-    print(prompt, end="")
+    print(prompt, end='')
     return input()
 
 
