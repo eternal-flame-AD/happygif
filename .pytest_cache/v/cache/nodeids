@@ -1,0 +1,6 @@
+[
+  "happygif/test/test_gif_info.py::test_gif_info",
+  "happygif/test/test_write_static_img.py::test_write_jpg_left",
+  "happygif/test/test_write_static_img.py::test_write_jpg_mid",
+  "happygif/test/test_write_static_img.py::test_write_jpg_right"
+]

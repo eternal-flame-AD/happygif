@@ -1,0 +1,6 @@
+{
+  "happygif/test/test_gif_info.py::test_gif_info": true,
+  "happygif/test/test_write_static_img.py::test_write_jpg_left": true,
+  "happygif/test/test_write_static_img.py::test_write_jpg_mid": true,
+  "happygif/test/test_write_static_img.py::test_write_jpg_right": true
+}
