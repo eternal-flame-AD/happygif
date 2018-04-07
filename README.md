@@ -1,4 +1,7 @@
 # happygif
+[![Coverage Status](https://coveralls.io/repos/github/eternal-flame-AD/happygif/badge.svg?branch=master)](https://coveralls.io/github/eternal-flame-AD/happygif?branch=master)
+[![Build Status](https://travis-ci.org/eternal-flame-AD/happygif.svg?branch=master)](https://travis-ci.org/eternal-flame-AD/happygif?branch=master)
+
 
 一个gif加字幕的工具
 
